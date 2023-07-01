@@ -55,6 +55,5 @@ document.querySelector('.carousel-link__item-3').addEventListener('click', funct
     offsetDescription = 1026;
 
     sliderDescription.style.left = -offsetDescription + 'px';
-    document.activeElement('.carousel-link__item-3');
 });
 
